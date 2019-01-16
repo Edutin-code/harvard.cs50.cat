@@ -1,10 +1,18 @@
 {
-  "author": "CS50",
-  "description": "Adds a cat to CS50 IDE.",
+  "author": "Edutin",
+  "description": "Adds the Edutin's logo to Edutin IDE.",
   "contributors": [
     {
       "email": "malan@harvard.edu",
       "name": "David J. Malan"
+    },
+    {
+      "email": "mijail@edutin.com",
+      "name": "Mijail D. Molina Lavrishcheva"
+    },
+    {
+      "email": "administrador@edutin.com",
+      "name": "Sergio Obredor"
     }
   ],
   "name": "c9.ide.cs50.cat",
